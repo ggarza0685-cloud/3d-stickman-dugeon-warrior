@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Rodrigo
+MIDlet-Name: 3D Stickman Dungeon Warrior [casketizer]
+MIDlet-Icon: /icon1.png
+MIDlet-Version: 1.4
+MIDlet-Vendor: Edited by Rodrigo
+MIDlet-1: 3D Dungeon Warrior, /icon1.png, M
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
