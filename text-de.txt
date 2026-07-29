@@ -1,0 +1,58 @@
+﻿Spiel starten
+Hilfe
+Optionen
+Über
+Beenden
+Level
+Display
+Ton
+Musik
+Vibrieren
+Groß
+Klein
+An
+Aus
+Bewegen
+Drehen
+Seitwärts
+Feuer
+Waffe wechseln
+Karte
+Nachtsicht
+Benutze
+(Schalter,
+Medizinstation)
+Wählen
+Sprache
+Die Aufgabe besteht darin die Quelle des Bösen zu finden und diese zu zerstören. Dann können die üblen Kreaturen im Labyrinth nicht mehr weiter existieren. Zögere nicht. Die Zeit drängt!  Tipp: Um erste Hilfe Kästen oder Kartenleser an Wänden zu benutzen, stelle dich davor und drücke die Stern Taste (*).  
+Entwickelt von
+Version
+Lade...
+Data
+Rote Chipkarte
+benötigt
+Gelbe Chipkarte
+benötigt
+Blaue Chipkarte
+benötigt
+Nachtsicht
+Level 
+ geschafft
+Gegner vernichtet
+Game over
+Pistolenkugeln: 
+Gewehr
+Gewehrpatronen: 
+Schrotflinte
+Schrotflinten Kugeln: 
+Gesundheit: 
+Rüstung: 
+Rote Chipkarte
+Gelbe Chipkarte
+Blaue Chipkarte
+Wählen, Menü
+Zurück
+Um einen Schalter oder
+ein Medkit zu benutzen,
+stell dich davor
+und drücke (*).

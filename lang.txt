@@ -1,0 +1,7 @@
+﻿[lang]
+en,English
+de,Deutsch
+es,Español
+fr,Français
+it,Italiano
+silly,Silly

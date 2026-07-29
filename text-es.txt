@@ -1,0 +1,58 @@
+﻿Jugar
+Ayuda
+Opciones
+Información
+Salir
+Nivel
+Pantalla
+Sonido
+Música
+Vibración
+Completa
+Reducida
+Sí
+No
+Mover
+Girar
+Ladear
+Disparo
+Cambiar arma
+Mapa
+Visión candente
+Usar objeto
+(interruptor,
+botiquín)
+Elegir
+Idioma
+Tu misión es buscar, encontrar y destruir el origen del mal, que mantiene vivos a todas las criaturas del laberinto. No esperes a que te persigan...  Pista: para usar el anagrama o el botiquín que encontrarás en los muros, sitúate frente al objeto y pulsa la tecla asterisco (*).  
+Programación
+Versión
+Cargando...
+Cargando datos
+Necesitas el
+anagrama rojo
+Necesitas el
+anagrama amarillo
+Necesitas el
+anagrama azul
+Visión candente
+Nivel 
+ completado
+El mal ha sido eliminado
+Fin del juego
+Balas de pistola: 
+Rifle
+Balas de rifle: 
+Escopeta
+Balas de escopeta: 
+Salud: 
+Armadura: 
+Anagrama rojo
+Anagrama amarillo
+Anagrama azul
+Seleccionar,Menú
+Atrás
+Para usar el interruptor
+o el botiquín,
+sitúate frente
+a él y pulsa (*)."

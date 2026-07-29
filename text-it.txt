@@ -1,0 +1,58 @@
+﻿Inizio gioco
+Aiuto
+Opzioni
+About
+Lascia
+Livello
+Video
+Suono
+Musica
+Vibrazioni
+Pieno
+Piccolo
+Acceso
+Spento
+Muovere
+Girare
+Bombardare
+Sparare
+Cambia arma
+Mappa
+Visione rossa
+Usa oggetto
+(Cambia,
+carica vita)
+Scegliere
+Lingua
+Il tuo compito é di cercare, trovare e distruggere l'origine del male, che tiene la gente prigioniera nel labirinto.  Non perdere tempo: ti sono alle costole! Consiglio: per utilizzare lo stemma o la scatola dei medicinali appesa alla parete, mettiti di fronte e premi l'asterisco (*).  
+Prodotto da
+Versione
+Carica...
+Carica dati
+Ti serve lo
+stemma rosso
+Ti serve lo
+stemma giallo
+Ti serve lo
+stemma blu
+Visione rossa
+Livello 
+ é finito
+Il male é distrutto
+Il gioco é finito
+Proiettili per pistola: 
+Fucile
+Proiettili per fucile: 
+Fucile a canne mozze
+Colpi per fucile: 
+Salute: 
+Corazza: 
+Stemma rosso
+Stemma giallo
+Stemma blu
+Scegli, Menu
+Indietro
+Per usare un pulsante
+o una scatola delle
+medicine, devi metterti
+di fronte e premere (*).

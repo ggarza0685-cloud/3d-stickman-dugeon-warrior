@@ -1,0 +1,58 @@
+﻿Start Game
+Help
+Options
+About
+Quit
+Level
+Screen
+Sound
+Music
+Vibration
+Full
+Small
+On
+Off
+Move
+Turn
+Strafe
+Fire
+Change weapon
+Map
+Red vision
+Use item
+(switch,
+live charger)
+Choose
+Language
+Your task is to look for, find, and destroy the source of evil, which keeps alive all the strangers in the maze. Don't wait - they are going after you!  Tip: To use blazon or health box hanged on walls, stand in front of it and press asterisk (*).  
+Developed by
+Version
+Loading...
+Loading data
+You need
+red blazon
+You need
+yellow blazon
+You need
+Blue blazon
+Red vision
+Level 
+ is complete
+Evil is destroyed
+Game over
+Pistol bullets: 
+Rifle
+Rifle bullets: 
+Shotgun
+Shotgun bullets: 
+Health: 
+Armor: 
+Red blazon
+Yellow blazon
+Blue blazon
+Select, Menu
+Resume
+To use any switch
+or health box,
+you must face it
+and then press (*).

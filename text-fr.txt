@@ -1,0 +1,58 @@
+﻿Commencer
+Aide
+Options
+A propos...
+Quitter
+Niveau
+Ecran
+Son
+Musique
+vibration
+Plein
+Petit
+Activé
+Désactivé
+Déplacement
+Tourner
+Dep. lateral
+Tirer
+Changer d'arme
+Carte
+Vision infrarouge
+Utiliser objet
+(interrupteur,
+chargeur d'énergie)
+Choisir
+Langage
+Votre tache est de chercher, trouver et détruire la source maléfique responsable maintenant les monstres en vie. N'attendez pas qu'ils vous trouvent!  Indice: afin d'utiliser les blasons ou les trousses de secours, placez vous devant et cliquez sur astérisque (*).  
+Développé par
+Version
+Chargement en cours...
+Chargement des données
+Vous devez trouver
+le blason rouge
+Vous devez trouver
+le blason vert
+Vous devez trouver
+le blason bleu
+Vision infrarouge
+Niveau 
+ terminé
+Le mal est vaincu
+Fin de partie
+Munitions pistolet: 
+Mitraillette
+Munitions mitraillette: 
+Fusil a pompe
+Munitions fusil a pompe: 
+Vie: 
+Armure: 
+Blason rouge
+Blason jaune
+Blason bleu
+Selectionner,Menu
+Retour
+Afin d'utiliser un blason
+ou une trousse de secours,
+vous devez vous placer
+devant et cliquer sur (*).
